@@ -57,6 +57,7 @@
   <img src="https://github.com/limstinger/Pose_Estimation-H-/assets/113160281/19144d75-7d68-439d-9cef-baa5ecfe2cad" width="300" height="500" />
   <img src="https://github.com/limstinger/Pose_Estimation-H-/assets/113160281/cda9216b-9ae2-419a-a552-22f1e7201960" width="300" height="500" />
   <img src="https://github.com/limstinger/Pose_Estimation-H-/assets/113160281/3763c980-a553-40e7-a619-15629c570f66" width="300" height="500" />
+  <img src="https://github.com/limstinger/Pose_Estimation-H-/assets/113160281/2be12063-1f92-4b47-a266-810726fd5811" width="300" height="500" />
 
 
   
